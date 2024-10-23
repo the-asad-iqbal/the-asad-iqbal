@@ -1,10 +1,6 @@
 # 💫 About Me
 - 👋 Hi, I’m Asad Iqbal
 - 👀 I’m interested in Writing and debugging code.
-- 🌱 I’m currently learning TypeScript and Machine Learning
-- 📫 How to reach me ... amm... email me... asadraoof023@gmail.com
-
-
  # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-asad-iqbal&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-asad-iqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
