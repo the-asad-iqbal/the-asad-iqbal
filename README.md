@@ -1,5 +1,5 @@
 # 💫 About Me
-- 👋 Hi, I’m Asad Iqbal, a Full Stack Developer and Software Engineer
+- 👋 Hi, I’m Asad Iqbal, a Full Stack Developer and Software Engineer...
 - 👀 I’m interested in Writing and debugging code.
  # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-asad-iqbal&theme=dark&hide_border=false)
