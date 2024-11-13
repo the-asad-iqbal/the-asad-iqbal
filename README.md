@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-asad-iqbal&show_icons=true&locale=en" alt="the-asad-iqbal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-asad-iqbal&" alt="the-asad-iqbal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-asad-iqbal&show_icons=true&locale=en" alt="the-asad-iqbal" /></p>
