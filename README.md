@@ -3,8 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-asad-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="the-asad-iqbal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-asad-iqbal" alt="the-asad-iqbal" /></a> </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/the-asad-iqbal"
+    width="600"
+    height="120"
+  />
+</a>
+  
 - 🌱 I’m currently learning **Docker, PostgreSQL**
 
 - 💬 Ask me about **React, Node, Mongo, JIRA, Github**
