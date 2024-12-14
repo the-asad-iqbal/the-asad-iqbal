@@ -4,13 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-asad-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="the-asad-iqbal" /> </p>
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/the-asad-iqbal"
+    src="https://render.gitanimals.org/lines/the-asad-iqbal?pet-id=655658295022440206"
     width="600"
     height="120"
   />
 </a>
+  
   
 - 🌱 I’m currently learning **Docker, PostgreSQL**
 
